@@ -1,7 +1,7 @@
 # CGPA_Calculator
 # This is my first android application. This is a CGPA calculator app. By using this app you can easily calculate your CGPA.
 
-# Here is the apk download link.
+# Here is the apk download link. Go to this link and download the apk file.
 
 ## https://github.com/Sami-115667/CGPA_Calculator/blob/main/app-release.apk
 
