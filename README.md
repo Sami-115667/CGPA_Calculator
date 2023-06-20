@@ -2,7 +2,7 @@
 ## This is my first android application.This is a CGPA calculator app.  By using this app you can easily calculate your CGPA.
 
 # Features
-### 1.Calculate the running CGPA.<br>2.Delete the courses.<br>3.Calculate the total CGPA.<br>
+### 1.Calculate the running CGPA.<br>2.Delete the courses.<br>3.Calculate the total CGPA.<br> 
 
 # Usages
 ### 1.Enter your Course name.<br>2.Enter your Grade(A,A+,A-,B etc.).<br>3.Enter your Course Credit.<br>4.Press calculate CGPA button.<br>5.Then go to the next semester.
